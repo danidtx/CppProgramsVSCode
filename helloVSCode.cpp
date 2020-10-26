@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
- cout << "Hello, file edited in VSCode";
+ cout << "File edited in VSCode";
  return 0;
 }
